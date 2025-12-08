@@ -16,7 +16,7 @@ export default function Home() {
         <div className="mt-10 flex flex-col gap-3 sm:flex-row">
           <a
             className="rounded-full bg-blue-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-blue-500"
-            href="https://99fold.notion.site/How-to-Deploy-and-Build-Web-Apps-2a7b74f33238804295f0dcd7d8e1c9c0"
+            href="https://vercel.com/docs/deployments/overview"
             target="_blank"
             rel="noopener noreferrer"
           >
